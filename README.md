@@ -41,5 +41,4 @@ I also messed up a DAX measure early on by pasting multiple formulas into a sing
 Open `retail_sales.db` in any SQLite browser and run the queries in `analysis_queries.sql`, or just open the Excel/Power BI files directly — they're both ready to explore.
 
 ---
-[Your Name] — B.Com (Computer Applications)
-[LinkedIn] · [Email]
+Vishnu Narayanan G K · vishnunarayanangk@gmail.com · (https://www.linkedin.com/in/vishnu-narayanan-6ba849365)
