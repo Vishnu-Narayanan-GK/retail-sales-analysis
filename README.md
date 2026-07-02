@@ -2,9 +2,9 @@
 
 I built this project to practice the full analyst workflow — going from a raw CSV all the way to a working dashboard, using SQL, Excel, and Power BI. I wanted something more real than a tutorial, so I used the Kaggle "Sample Superstore" dataset, which a lot of analysts use to practice on. It's about 10,000 orders from a US retail company between 2014 and 2017.
 
-![Sales Overview](screenshots/screenshot-sales-overview.png)
-![Customer & Segment Detail](screenshots/screenshot-customer-detail.png)
-
+![Sales Overview](screenshot-sales-overview.png)
+   ![Customer & Segment Detail](screenshot-customer-detail.png)
+   
 ## What I did
 
 I started in SQL since that felt like the most natural way to ask questions of the data directly — things like which region makes the most money, which products are actually profitable, and whether discounts are hurting margins more than they help sales. Once I had a feel for the numbers, I moved into Excel to build a proper dashboard with KPI cards and charts, and then rebuilt the same thing in Power BI so I could add filtering and make it interactive.
